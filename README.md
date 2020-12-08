@@ -2,9 +2,9 @@
 
 
 
-*. Created a column that adds the length of the review as a feature.
+* Created a column that adds the length of the review as a feature.
 
-*. Created a list of transformations to be applied in the pipeline:
+* Created a list of transformations to be applied in the pipeline:
 
    - Changed positive and negative to an index.
 
@@ -16,7 +16,7 @@
 
    - Calculated TF–IDF.
 
-*. Created a feature vector containing the output from the IDFModel (the last stage in the pipeline) and the length.
+* Created a feature vector containing the output from the IDFModel (the last stage in the pipeline) and the length.
 
    - Seted up the pipeline and and fited it to the data.
 
